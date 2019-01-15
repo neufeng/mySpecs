@@ -1,0 +1,2 @@
+# mySpecs
+privete cocosapods
